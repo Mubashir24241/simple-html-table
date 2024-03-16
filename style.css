@@ -1,0 +1,146 @@
+body{
+    background-color: #5178ed;
+}
+
+.main {
+    width: 1000px;
+    height: 540px;
+    background-color: #365ff4;
+    align-items: center;
+}
+
+.row1 {
+    width: 1000px;
+    height: 100px;
+    background-color: #E91E63;
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+.row2 {
+    width: 1000px;
+    height: 40px;
+    background-color: #9c27b0;
+    text-align: center;
+}
+
+.row2-col1 {
+    width: 200px;
+    height: 40px;
+    background-color: #FF0000;
+    text-align: center;
+    float: left;
+}
+
+.row2-col2 {
+    width: 200px;
+    height: 40px;
+    background-color: #FFFF00;
+    text-align: center;
+    float: left;
+}
+
+.row2-col3 {
+    width: 200px;
+    height: 40px;
+    background-color: #008000;
+    text-align: center;
+    float: left;
+}
+
+.row2-col4 {
+    width: 200px;
+    height: 40px;
+    background-color: #008080;
+    text-align: center;
+    float: left;
+}
+
+.row2-col5 {
+    width: 200px;
+    height: 40px;
+    background-color: #00FFFF;
+    text-align: center;
+    float: left;
+}
+
+.row3 {
+    width: 1000px;
+    height: 200px;
+    background-color: #ff8c00;
+    text-align: center;
+}
+
+.row3-col1 {
+    width: 250px;
+    height: 200px;
+    background-color: #7fff00;
+    float: left;
+}
+
+.row3-col1-row1 {
+    width: 250px;
+    height: 40px;
+    background-color: #0000ff;
+}
+
+.row3-col1-row2 {
+    width: 250px;
+    height: 40px;
+    background-color: #a2006d;
+}
+
+.row3-col1-row3 {
+    width: 250px;
+    height: 40px;
+    background-color: #df00ff;
+}
+
+.row3-col1-row4 {
+    width: 250px;
+    height: 40px;
+    background-color: #fefe33;
+}
+
+.row3-col1-row5 {
+    width: 250px;
+    height: 40px;
+    background-color: #cc00ff
+}
+
+.row3-col2 {
+    width: 750px;
+    height: 200px;
+    background-color: #76ff7a;
+    float: left;
+}
+
+.row4 {
+    width: 1000px;
+    height: 150px;
+    text-align: center;
+    background-color: #a0522d;
+}
+
+.row4-col1 {
+    width: 1000px;
+    height: 150px;
+    background-color: #e25822;
+   text-align: center;
+}
+
+.row4-col2 {
+    width: 1000px;
+    height: 150px;
+    background-color: #ffa500;
+    text-align: center;
+}
+
+.row4-col3 {
+    width: 1000px;
+    height: 150px;
+    background-color: #808080;
+    text-align: center;
+    text-shadow: #00FFFF;
+}
